@@ -2,6 +2,8 @@
 !jest.config.js
 *.d.ts
 node_modules
+# added for lab
+!lambda/*.js
 
 # CDK asset staging directory
 .cdk.staging
